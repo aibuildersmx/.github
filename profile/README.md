@@ -1,7 +1,5 @@
 # AI Builders Mexico 🤖🇲🇽
 
-Building the future of AI in Mexico, one project at a time.
-
 ## About
 
 AI Builders Mexico is a community of developers, researchers, and enthusiasts passionate about artificial intelligence and machine learning. We focus on creating practical AI solutions, sharing knowledge, and fostering innovation in the Mexican tech ecosystem.

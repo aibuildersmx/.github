@@ -15,14 +15,13 @@ AI Builders Mexico is a community of developers, designers, and enthusiasts pass
 
 ### 🚀 Join Our Community
 
-- Join our [whatsapp community](https://chat.whatsapp.com/E7oCGyITLkX1aqFexJbbHm)
-- Join our discussions and contribute to projects
+- Join our [whatsapp group](https://chat.whatsapp.com/E7oCGyITLkX1aqFexJbbHm) for realtime discussions and updates
+- Get started with vibe coding by using our [learn tool](https://learn.aibuilders.mx)
 - Share your AI projects and ideas
 
 ## Contact
 
 - Website: [aibuilders.mx](https://aibuilders.mx)
-- Learn: [learn.aibuilders.mx](https://learn.aibuilders.mx)
 - WhatsApp: [whatsapp](https://chat.whatsapp.com/E7oCGyITLkX1aqFexJbbHm)
 - GitHub: [@aibuildersmx](https://github.com/aibuildersmx)
 - Javier: [linkedin](https://www.linkedin.com/in/javierriveroe/) [x](https://x.com/_javierivero)
